@@ -1,5 +1,5 @@
 # Final-Project
 Team Name: Happy Panthers
-# Team Members:
+### Team Members:
 Allyson Morgan - AMM946@pitt.edu
 Emily Truitt - ERT79@pitt.edu
