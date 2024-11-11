@@ -1,5 +1,8 @@
 # Final-Project
-Team Name: Happy Panthers
+Our repository contains comparisons between our datasets to determine the "best" Pittsburgh neighborhood.
+### Team Name: 
+
+Happy Panthers
 ### Team Members:
 Allyson Morgan - AMM946@pitt.edu
 Emily Truitt - ERT79@pitt.edu
