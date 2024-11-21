@@ -8,6 +8,8 @@ Allyson Morgan - AMM946@pitt.edu
 
 Emily Truitt - ERT79@pitt.edu
 
+Group 33 on Canvas
+
 ### Datasets:
 #### Public School Locations: 
 https://data.wprdc.org/dataset/pittsburgh-public-school-locations/resource/06664b02-c673-49d5-8a70-d3cd1c18ac8d
