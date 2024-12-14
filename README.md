@@ -1,5 +1,5 @@
 # Final-Project
-Our repository contains comparisons between our datasets to determine the "best" Pittsburgh neighborhood based on how many of each facility each neighborhood has.
+Our repository contains comparisons between our datasets to determine the "best" Pittsburgh neighborhood based on how many of each facility each neighborhood has. We have a notebook for each data set and a final conclusion notebook that combines the analyses to conclude which neighborhood is the "best."  
 ### Team Name: 
 
 Happy Panthers
